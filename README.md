@@ -6,4 +6,4 @@
  - estou me desenvolvendo na linguagem javascript
  - utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos envolvidos
  
-![](https://media.tenor.com/sYuJ6yY0ZZoAAAAi/madoka-magica-magical.gif)
+![](https://media1.tenor.com/m/jpuAndzpXQ4AAAAC/kyubey-i-love-kyubey.gif)
